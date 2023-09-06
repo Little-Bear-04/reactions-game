@@ -1,0 +1,27 @@
+.grid {
+	width: 606px;
+	height: 606px;
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #000000;
+}
+
+.square {
+	width: 200px;
+	height: 200px;
+	border: solid white 1px;
+}
+
+.mole {
+	background-color: #F1A907;
+}
+
+h2 {
+	font-family: calibri;
+	color: #F1A907;
+}
+
+h3 {
+	font-family: calibri;
+	color: #F1A907;
+}
